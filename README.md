@@ -24,7 +24,7 @@ python begin.py
 注：下面演示一下最终的结果。
 
 <div align=center>
-<img src="imgs/0.png" width="500" height="550"/>
+<img src="https://github.com/zhangzhiyong100/scrapy-tutorial/blob/master/imgs/0.PNG" width="500" height="550"/>
 </div>
 
 
