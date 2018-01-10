@@ -30,19 +30,19 @@ python begin.py
 
 爬虫第一层请求，动态请求，页面js动态生成的
 <div align=center>
-<img src="imgs/1.png" width="320" height="211"/>
+<img src="https://github.com/zhangzhiyong100/scrapy-tutorial/blob/master/imgs/1.PNG" width="320" height="211"/>
 </div>
 
 
 爬虫第二层请求，动态请求，页面js动态生成的
 <div align=center>
-<img src="imgs/2.png" width="320" height="211"/>
+<img src="https://github.com/zhangzhiyong100/scrapy-tutorial/blob/master/imgs/2.PNG" width="320" height="211"/>
 </div>
 
 
 爬虫第三层请求
 <div align=center>
-<img src="imgs/3.png" width="320" height="211"/>
+<img src="https://github.com/zhangzhiyong100/scrapy-tutorial/blob/master/imgs/1.PNG" width="320" height="211"/>
 </div>
 
 
